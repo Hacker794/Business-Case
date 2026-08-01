@@ -1,3 +1,5 @@
+import math
+
 import matplotlib.pyplot as plt
 
 
@@ -13,15 +15,14 @@ def unit_economics(
         trolleys * contribution_per_trolley
     ) - fixed_cost
 
-    break_even_trolleys = (
-        fixed_cost / contribution_per_trolley
-    )
+    break_even_exact = fixed_cost / contribution_per_trolley
+    break_even_trolley = math.ceil(break_even_exact)
 
     return {
         "price": price,
         "contribution": contribution_per_trolley,
         "profit": round(monthly_profit, 2),
-        "break_even": round(break_even_trolleys, 1)
+        "break_even": round(break_even_trolley, 1)
     }
 
 
