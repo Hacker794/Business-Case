@@ -10,20 +10,20 @@ This is the lowest tested price that produces a positive monthly profit and allo
 
 | Price per trolley | Contribution per trolley | Monthly profit | Break-even trolleys |
 |---|---:|---:|---:|
-| £150 | £110 | -£250 | 27.3 |
-| £200 | £160 | £1,000 | 18.8 |
-| £250 | £210 | £2,250 | 14.3 |
-| £300 | £260 | £3,500 | 11.5 |
+| £150 | £110 | -£250 | 27 |
+| £200 | £160 | £1,000 | 19 |
+| £250 | £210 | £2,250 | 14 |
+| £300 | £260 | £3,500 | 12 |
 
 ## What the results show
 
-At **£150 per trolley**, the pilot would lose £250 each month. It would need approximately 27.3 trolleys to break even, which is more than the 25 trolleys included in the pilot. This means £150 is not a financially viable price.
+At **£150 per trolley**, the pilot would lose £250 each month. It would need approximately 27 trolleys to break even, which is more than the 25 trolleys included in the pilot. This means £150 is not a financially viable price.
 
-At **£200 per trolley**, the pilot would make a monthly profit of £1,000. It would break even at approximately 18.8 trolleys, so a 25-trolley pilot would cover its costs with some margin.
+At **£200 per trolley**, the pilot would make a monthly profit of £1,000. It would break even at approximately 19 trolleys, so a 25-trolley pilot would cover its costs with some margin.
 
-At **£250 per trolley**, the monthly profit would rise to £2,250 and the pilot would break even at approximately 14.3 trolleys.
+At **£250 per trolley**, the monthly profit would rise to £2,250 and the pilot would break even at approximately 14 trolleys.
 
-At **£300 per trolley**, the monthly profit would be £3,500 and the pilot would break even at approximately 11.5 trolleys.
+At **£300 per trolley**, the monthly profit would be £3,500 and the pilot would break even at approximately 12 trolleys.
 
 ## Why recommend £200 rather than £250 or £300?
 
