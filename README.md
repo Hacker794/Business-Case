@@ -86,6 +86,7 @@ Smart-Trolley-Business-Case/
 ├── profit_vs_price.png
 ├── model-results.md
 ├── product-one-pager.md
+├── recommendation.pptx
 └── README.md
 ```
 
