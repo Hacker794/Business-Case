@@ -86,7 +86,6 @@ Smart-Trolley-Business-Case/
 ├── profit_vs_price.png
 ├── model-results.md
 ├── product-one-pager.md
-├── Day_9_Riverside_Malls_Smart_Trolley_Business_Case.pptx
 └── README.md
 ```
 
